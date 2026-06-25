@@ -1,2 +1,2 @@
 # SmartGrad-Analytics-Engine
-An end-to-end data science and engineering pipeline built with GenAI assistance to predict student performance.
+An end-to-end data science pipeline built with Generative AI assistance to predict student performance.
